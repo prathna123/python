@@ -1,0 +1,7 @@
+x=5
+file open=(x,'w')
+file.write(x)
+file.close()
+file=open(fd,'r')
+text=file.read()
+

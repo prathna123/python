@@ -1,6 +1,6 @@
-x=input()
-y=list(map(int,x.split()))
+y=input()
+y=list(map(int,y.split()))
 print (y)
-z=type(x)
+z=type(y)
 print (z)
 
